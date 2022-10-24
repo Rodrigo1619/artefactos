@@ -1,3 +1,11 @@
+# Librerias 
+* sh11 => Adafruit SH110X
+* ADAFRUIT MQTT => Adafruit MQTT Library
+* DHT
+* ESP8266WiFi
+* WiFi Client => creo que solo es WiFi
+
+
 # Codigo para el ultrasonico hecho en arduino y no en el ESP32 (sin el adafruit)
 ```
 // ---------------------------------------------------------------- //
