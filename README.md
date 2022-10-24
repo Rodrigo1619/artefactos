@@ -1,4 +1,4 @@
-# Codigo para el ultrasonico hecho en arduino y no en el ESP32
+# Codigo para el ultrasonico hecho en arduino y no en el ESP32 (sin el adafruit)
 ```
 // ---------------------------------------------------------------- //
 // Arduino Ultrasoninc Sensor HC-SR04
